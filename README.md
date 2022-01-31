@@ -9,5 +9,5 @@ The core of this project is a custom retained mode GUI implemented on top of Pro
 - Press the "Show help" button in the application to have a summary of the view's controls
 - Some premade islands can be loaded from the "examples" folder
 
-# Screen shots
-
+# Screenshot
+![](screenshot.png)
